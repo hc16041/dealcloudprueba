@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DealCloudBackend.Api",
+    "\\DealCloudBackend.Application\\bin\\Debug",
+    "\\DealCloudBackend.Application\\bin\\Debug\\net9.0",
+    "\\DealCloudBackend.Application\\bin\\Release",
+    "\\DealCloudBackend.Application\\Dtos",
+    "\\DealCloudBackend.Application\\Dtos\\References",
+    "\\DealCloudBackend.Application\\Mappings",
+    "\\DealCloudBackend.Core",
+    "\\DealCloudBackend.Core\\obj\\Debug"
+  ],
+  "SelectedNode": "\\DealCloudBackend.Api\\Controllers",
+  "PreviewInSolutionExplorer": false
+}

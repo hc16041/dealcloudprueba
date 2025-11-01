@@ -1,0 +1,755 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ReportsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\ReportsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\DealsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\DealsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ReferencesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\ReferencesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ProBonoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\ProBonoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\PracticeAreasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\PracticeAreasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\PositionsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\PositionsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\LawyersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\LawyersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\CountriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\CountriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ClientsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\ClientsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\RoleDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Admin\\RoleDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Reports\\ReportGenerateRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Reports\\ReportGenerateRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\References\\ReferenceCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\References\\ReferenceCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Reports\\ReferenceReportGenerateRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Reports\\ReferenceReportGenerateRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Mappings\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Mappings\\MappingProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Infrastructure\\Data\\SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Infrastructure\\Data\\SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Infrastructure\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Infrastructure\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Lawyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\Lawyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Admin\\UserDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Admin\\LoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\References\\ReferenceDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\References\\ReferenceDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Deals\\DealDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Deals\\DealCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealListDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Deals\\DealListDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Clients\\ClientDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Clients\\ClientDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Clients\\ClientCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Clients\\ClientCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerDto.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerDto.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerCreateUpdateDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ReportRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\ReportRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\Industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\PracticeArea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\PracticeArea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\Reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ProBono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\ProBono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\Deal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Client.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\Client.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DealCloudBackend.Core\\Models\\Firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LawyersController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\LawyersController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\LawyersController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\LawyersController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\LawyersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:33:23.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PositionsController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\PositionsController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\PositionsController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\PositionsController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\PositionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:38:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PracticeAreasController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\PracticeAreasController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\PracticeAreasController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\PracticeAreasController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\PracticeAreasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:38:37.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProBonoController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ProBonoController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\ProBonoController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ProBonoController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\ProBonoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:39:13.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReferencesController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ReferencesController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\ReferencesController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ReferencesController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\ReferencesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:39:25.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:33:59.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:38:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Program.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Program.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T16:51:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DealsController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\DealsController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\DealsController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\DealsController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\DealsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:33:45.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:38:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DealCloudBackend.Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:39:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\RoleDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Admin\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\RoleDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Admin\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:55:08.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportGenerateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Reports\\ReportGenerateRequestDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Reports\\ReportGenerateRequestDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Reports\\ReportGenerateRequestDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Reports\\ReportGenerateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:57:07.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReferenceCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\References\\ReferenceCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\References\\ReferenceCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\References\\ReferenceCreateUpdateDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\References\\ReferenceCreateUpdateDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:56:59.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReferenceReportGenerateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Reports\\ReferenceReportGenerateRequestDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Reports\\ReferenceReportGenerateRequestDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Reports\\ReferenceReportGenerateRequestDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Reports\\ReferenceReportGenerateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:57:13.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:41:14.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Infrastructure\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Infrastructure\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Infrastructure\\Data\\SeedData.cs",
+              "RelativeToolTip": "DealCloudBackend.Infrastructure\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:46:03.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DealCloudBackend.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:32:43.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Lawyer.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Lawyer.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\Lawyer.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Lawyer.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\Lawyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:29:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:29:42.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\UserDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Admin\\UserDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\UserDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Admin\\UserDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:55:03.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DealCloudBackend.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Api\\appsettings.Development.json",
+              "RelativeToolTip": "DealCloudBackend.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T19:34:27.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Admin\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Admin\\LoginDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Admin\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:54:56.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReferenceDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\References\\ReferenceDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\References\\ReferenceDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\References\\ReferenceDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\References\\ReferenceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:56:52.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProBonoDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:56:38.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProBonoCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoCreateUpdateDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\ProBono\\ProBonoCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:56:44.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DealDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Deals\\DealDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Deals\\DealDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:55:38.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DealCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Deals\\DealCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealCreateUpdateDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Deals\\DealCreateUpdateDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:55:53.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DealListDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealListDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Deals\\DealListDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Deals\\DealListDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Deals\\DealListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:55:45.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Clients\\ClientDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Clients\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Clients\\ClientDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Clients\\ClientDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:55:18.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Clients\\ClientCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Clients\\ClientCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Clients\\ClientCreateUpdateDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Clients\\ClientCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:55:24.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LawyerDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:56:03.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LawyerCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerCreateUpdateDto.cs",
+              "RelativeToolTip": "DealCloudBackend.Application\\Dtos\\Lawyers\\LawyerCreateUpdateDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:56:21.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReportRequest.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ReportRequest.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\ReportRequest.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ReportRequest.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\ReportRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:34:37.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Industry.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\Industry.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Industry.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\Industry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:32:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Country.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:32:00.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PracticeArea.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\PracticeArea.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\PracticeArea.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\PracticeArea.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\PracticeArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:31:48.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Position.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:31:27.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Reference.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\Reference.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Reference.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\Reference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:31:05.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProBono.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ProBono.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\ProBono.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\ProBono.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\ProBono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:30:51.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Deal.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Deal.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\Deal.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Deal.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\Deal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:30:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Client.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:30:13.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Firm.cs",
+              "DocumentMoniker": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Firm.cs",
+              "RelativeDocumentMoniker": "DealCloudBackend.Core\\Models\\Firm.cs",
+              "ToolTip": "C:\\Users\\CONSTRU\\Downloads\\DealCloudBackend\\DealCloudBackend.Core\\Models\\Firm.cs",
+              "RelativeToolTip": "DealCloudBackend.Core\\Models\\Firm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:29:06.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

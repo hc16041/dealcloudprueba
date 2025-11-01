@@ -1,0 +1,6 @@
+@DealCloudBackend.Api_HostAddress = http://localhost:5147
+
+GET {{DealCloudBackend.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
